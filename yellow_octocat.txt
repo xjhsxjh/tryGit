@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am yellow octo cat!!
+=======
+git diff??
+>>>>>>> parent of fa044a9... Remove all the cats
